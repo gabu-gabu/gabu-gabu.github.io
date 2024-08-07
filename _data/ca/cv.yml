@@ -1,101 +1,97 @@
-- title: General Information
+- title: 
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Nom
+      value: Gabriel Puig Roca-Sastre
+    - name: Data de naixement
+      value: 27 de juliol
+    - name: Llengues
+      value: Català (C2), Castellà (Nadiu), Francés (Bilingüe), Anglès (Professional)
 
-- title: Education
+- title: Experiència
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Professor de francès, llatí i català a secundària
+      institution: Pedagogium Cos, Sant Boi de Llobregat
+      year: 2024-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - 
+    - title: Traductor autònom
+      institution: Barcelona
+      year: 2018-2024
+      description: He fet traduccions, correccions, acaraments, localitzacions en el món de la literatura i dels videojocs. En l’actualitat estic més centrat en la literatura infantil i el còmic. He treballat amb llibres d’autors com Eric Carle, Francisco Ibáñez o David McKee.
 
-- title: Experience
+    - title: Editor i redactor infantil, juvenil i còmic
+      institution: <a href="https://www.penguinrandomhousegrupoeditorial.com/">Penguin Random House Grupo Editorial</a>, Barcelona
+      year: 2021-2022
+      description: Pràctiques a edició i edició tècnica del departament de literatura infantil, juvenil i còmic per diversos segells (Molino, Montena, Alfaguara, Salamandra, B de Blok, etc.). M’ha permès millorar i aprendre habilitats a més de treballar activament al procés editorial.
+
+- title: Educació
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Màster en estudis de traducció
+      institution: <a href="https://upf.edu">Universitat Pompeu Fabra</a>, Barcelona
+      year: 2021-2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Màster centrat en el món de la traducció i l’especialització en traducció literària i audiovisual, amb un tast també d’interpretació.
+    - title: Grau de traducció i interpretació
+      institution: <a href="https://upf.edu">Universitat Pompeu Fabra</a>, Barcelona
+      year: 2016-2020
+      description: Formació en traducció i interpretació per itinerari de francès amb especialització en traducció científica i literària, i en localització de programari.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Voluntariats
   type: time_table
   contents:
-    - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
-      year: 2023-now
-      description: A fork of al-folio theme with support for multiple languages.
+    - title: Secretari de la Junta Directiva
+      institution: <a href="https://castellersdebarcelona.cat">Castellers de Barcelona</a>, Barcelona
+      year: 2023
+      description:
 
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Traductor de videjocs
+      institution: <a href="https://cetrencada.cat">Projecte Ce Trencada</a>
+      year: 2020-2022
+      description: 
+    
+    - title: Secretari de la Junta Directiva
+      institution: <a href="https://trempats.cat">Trempats de la UPF</a>
+      year: 2021-2022
+      description: 
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Vicepresident de la Junta Directiva
+      institution: <a href="https://trempats.cat">Trempats de la UPF</a>
+      year: 2019-2021
+      description:   
 
-- title: Academic Interests
+# - title: Habilitats
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
+
+- title: Habilitats i eines
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Habilitats
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Multilingüisme.
+        - Atenció al detall.
+        - Creativitat  Recerca i documentació.
+        - Treball en equip.
+        - Gestió i organització d’esdeveniments  Experiència parlant en públic.
+    - title: Eines
       items:
-        - Description 1.
-        - Description 2.
+        - Eines TAO: experiència amb SDL Trados, MemoQ, Memsource, Smartcat, Xbench, entre d’altres.
+        - Paquet Office de Microsoft: domini avançat de Word, Excel i Powerpoint.  Eines d’edició d’imatge.
+        - Excel i Powerpoint.  Eines d’edició d’imatge: domini de Photoshop i Gimp, i editors de vectors com Inkscape o Illustrator.
+        - Eines de maquetació (InDesign).
+        - SAP
 
-- title: Other Interests
+- title: 
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
