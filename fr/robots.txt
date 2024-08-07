@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gabu-gabu.github.io//sitemap.xml
