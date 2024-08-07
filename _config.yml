@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: Gabriel
+middle_name:
+last_name: Puig Roca-Sastre
+email: gabriel@traduir.cat
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: assets\img\favicon\gprs-fav.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://gabu-gabu.github.io # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -88,7 +88,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -382,8 +382,8 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "pt-br"]
-default_lang: "en-us"
+languages: ["ca", "es", "en", "fr"]
+default_lang: "ca"
 exclude_from_localization: ["assets"]
 lang_from_path: true
 country_flag: false # set true for allowing flag symbol in language toggle
