@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: Sobre mi
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Traductor</a> FR/EN/ES/CA. <a href='#'>Corrector</a> CA/ES. Professor.
 
 profile:
   align: right
