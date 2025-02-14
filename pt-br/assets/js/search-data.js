@@ -90,6 +90,20 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/pt-br/blog/";
               },
+            },{id: "dropdown-obres-publicades",
+              title: "Obres publicades",
+              description: "",
+              section: "Outras opções",
+              handler: () => {
+                window.location.href = "/pt-br";
+              },
+            },{id: "dropdown-projectes",
+              title: "Projectes",
+              description: "",
+              section: "Outras opções",
+              handler: () => {
+                window.location.href = "/pt-br";
+              },
             },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
