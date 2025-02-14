@@ -29,7 +29,7 @@ linkedin_username: gpr-s
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: false # set to true to show the RSS icon
+# rss_icon: false # set to true to show the RSS icon
 # scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
@@ -42,10 +42,10 @@ rss_icon: false # set to true to show the RSS icon
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-# x_username: # your X handle
+x_username: gprs_translator
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png # can be png, svg, jpg
-  title: Twitter
-  url: https://www.twitter.com/gprs_translator
+#custom_social: # can be any name here other than the ones already defined above
+#  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png # can be png, svg, jpg
+#  title: Twitter
+#  url: https://www.twitter.com/gprs_translator
