@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Gabriel
+middle_name: 
+last_name: Puig Roca-Sastre
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -33,7 +33,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -176,7 +176,7 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/en-us/about_einstein.md
+  - _pages/CA/about_einstein.md
   - _pages/pt-br/about_einstein.md
   - purgecss.config.js
   - README.md
@@ -339,8 +339,8 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "pt-br", "fr-ca"]
-default_lang: "en-us"
+languages: ["CA", "EN", "pt-br", "fr-ca"]
+default_lang: "CA"
 exclude_from_localization: ["assets"]
 lang_from_path: true
 country_flag: false # set true for allowing flag symbol in language toggle
