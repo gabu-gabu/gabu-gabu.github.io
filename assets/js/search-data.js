@@ -457,18 +457,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/gpr-s", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-x',
+        title: 'X',
         section: 'Xarxes',
         handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Xarxes',
-        handler: () => {
-          window.open("https://www.twitter.com/gprs_translator", "_blank");
+          window.open("https://twitter.com/gprs_translator", "_blank");
         },
       },{
           id: 'lang-EN',
