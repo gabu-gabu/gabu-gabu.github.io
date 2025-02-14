@@ -492,6 +492,13 @@ ninja.data = [{
           section: "projets",handler: () => {
               window.location.href = "/fr-ca/projects/6_project/";
             },},{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'réseaux sociaux',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/gpr-s", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'réseaux sociaux',
