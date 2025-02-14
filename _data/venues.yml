@@ -2,8 +2,8 @@
   url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Correcció CA":
+  color: "#e6da05"
 
-"Vision":
+"Traducció EN>CA":
   color: "#009f36"
