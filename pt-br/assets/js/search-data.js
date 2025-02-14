@@ -499,20 +499,6 @@ ninja.data = [{
           section: "Projetos",handler: () => {
               window.location.href = "/pt-br/projects/6_project/";
             },},{
-        id: 'social-email',
-        title: 'Enviar um email',
-        section: 'Redes sociais',
-        handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Redes sociais',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Redes sociais',
@@ -520,25 +506,25 @@ ninja.data = [{
           window.open("/feed.xml", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Redes sociais',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Redes sociais',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.twitter.com/gprs_translator", "_blank");
         },
       },{
-          id: 'lang-en-us',
-          title: 'en-us',
+          id: 'lang-CA',
+          title: 'CA',
           section: 'Idiomas',
           handler: () => {
             window.location.href = "" + updatedUrl;
+          },
+        },{
+          id: 'lang-EN',
+          title: 'EN',
+          section: 'Idiomas',
+          handler: () => {
+            window.location.href = "/EN" + updatedUrl;
           },
         },{
           id: 'lang-fr-ca',
