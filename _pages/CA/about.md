@@ -31,7 +31,8 @@ A més, col·laboro amb diversos projectes sense ànim de lucre per la llengua c
 
 Si vols veure el meu CV, ho pots fer [aquí](cv/).
 
-# Vols més informació? Posa't en contacte amb mi!
+
+## Vols més informació? Posa't en contacte amb mi!
 
 <section style="width: 100%;max-width: 40rem;margin-left: auto;margin-right: auto;padding: 3rem 1rem;">
 
