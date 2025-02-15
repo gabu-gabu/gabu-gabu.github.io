@@ -341,7 +341,7 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["CA", "EN", "pt-br", "fr-ca"]
+languages: ["CA"]
 default_lang: "CA"
 exclude_from_localization: ["assets"]
 lang_from_path: true
