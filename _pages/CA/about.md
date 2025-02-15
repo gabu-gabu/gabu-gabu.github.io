@@ -29,30 +29,34 @@ Soc un jove traductor, però també tinc experiència al món de l’ensenyament
 
 A més, col·laboro amb diversos projectes sense ànim de lucre per la llengua catalana. Espero que la meva experiència al món de la traducció i el món editorial sigui perfecta per fer créixer la vostra empresa. També sumo voluntariats en juntes directives de diferents entitats on he pogut expandir i millorar les meves habilitats. Les meves experiències m’han ensenyat valors com el respecte i el treball en equip, i com a persona vull seguir aprenent i formant-me.
 
-Si vols veure el meu CV, ho pots fer [aquí](CV).
+Si vols veure el meu CV, ho pots fer [aquí](cv/).
 
-<div class="row justify-content-center mt-4">
-            <div class="col-lg-8 mx-auto mbr-form" data-form-type="formoid">
-                <form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="kSH1RfADyytNDgCynMzNtNnYXr4eMt1fYxlLCqAYLOzCH8mSHYyjIybDOBojPHKF78odVkIxMBcLphhZ4g6ys022V8d80eIwqiC6oJSAceWFSfRAOgGvwrmbArtA5QIV">
-                    <div class="row">
-                        <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Gràcies per posar-te en contacte!</div>
-                        <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">
-                            Oops...! some problem!
-                        </div>
-                    </div>
-                    <div class="dragArea row">
-                        <div class="col-md col-sm-12 form-group mb-3" data-for="name">
-                            <input type="text" name="name" placeholder="Nom" data-form-field="name" class="form-control" value="" id="name-form5-u">
-                        </div>
-                        <div class="col-md col-sm-12 form-group mb-3" data-for="email">
-                            <input type="email" name="email" placeholder="Correu electrònic" data-form-field="email" class="form-control" value="" id="email-form5-u">
-                        </div>
-                        
-                        <div class="col-12 form-group mb-3" data-for="textarea">
-                            <textarea name="textarea" placeholder="Missatge" data-form-field="textarea" class="form-control" id="textarea-form5-u"></textarea>
-                        </div>
-                        <div class="col-lg-12 col-md-12 col-sm-12 align-center mbr-section-btn"><button type="submit" class="btn btn-primary display-4">Enviar</button></div>
-                    </div>
-                </form>
-            </div>
-        </div>
+# Vols més informació? Posa't en contacte amb mi!
+
+<section style="width: 100%;max-width: 40rem;margin-left: auto;margin-right: auto;padding: 3rem 1rem;">
+
+  <form action="https://api.web3forms.com/submit" method="POST">
+
+    <input type="hidden" name="access_key" value="b317872c-03c4-40c7-bc5f-1e1ef0aa60ac" />
+    <input type="hidden" name="subject" value="Nou missatge de la pàgina web" />
+    <input type="hidden" name="from_name" value="TRADUIR.CAT" />
+    <!-- More custom ization options available in the docs: https://docs.web3forms.com -->
+
+    <div style="display: grid;gap: 1rem;margin-top: 2rem;">
+      <div style="display: flex;flex-direction: column;">
+        <label for="name" style="margin-bottom: 0.5rem;">Nom</label>
+        <input id="name" name="name" style="padding: 0.5rem;border: 1px solid #e5e7eb;display: flex;height: 2.5rem;width: 100%;border-radius: 0.375rem;font-size: 0.875rem;line-height: 1.25rem;" placeholder="Nom i cognoms" type="text" />
+      </div>
+      <div style="display: flex;flex-direction: column;">
+        <label for="email" style="margin-bottom: 0.5rem;">Correu electrònic</label>
+        <input id="email" name="email" style="padding: 0.5rem;  border: 1px solid #e5e7eb;display: flex;height: 2.5rem;width: 100%;border-radius: 0.375rem;font-size: 0.875rem;line-height: 1.25rem;" placeholder="elteu@correuelectronic.com" type="email" />
+      </div>
+     <div style="display: flex;flex-direction: column;">
+        <label for="message" style="margin-bottom: 0.5rem;">Missatge</label>
+        <textarea style="padding: 0.5rem;border: 1px solid #e5e7eb;display: flex;height: 7rem;width: 100%;border-radius: 0.375rem;font-size: 0.875rem;line-height: 1.25rem;" id="message" name="message" placeholder="Escriu el teu missatge"></textarea>
+      </div>
+    </div>
+    <button style="width: 100%;margin-top: 1.2rem;background-color: #00808c;color: #fff;padding: 13px 5px;border-radius: 0.375rem;" type="submit">Enviar</button>
+  </form>
+
+</section>
