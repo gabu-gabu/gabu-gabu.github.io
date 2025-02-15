@@ -27,49 +27,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-publicações",
-              title: "publicações",
-              description: "",
-              section: "Desplegable",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-projetos",
-              title: "projetos",
-              description: "",
-              section: "Desplegable",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Desplegable",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Desplegable",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-projects",
-              title: "projects",
-              description: "",
-              section: "Desplegable",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Desplegable",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-obres-publicades",
+        },{id: "dropdown-obres-publicades",
               title: "Obres publicades",
               description: "",
               section: "Desplegable",
