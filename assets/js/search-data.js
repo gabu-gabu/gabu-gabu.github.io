@@ -27,49 +27,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-publicações",
-              title: "publicações",
-              description: "",
-              section: "Desplegable",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-projetos",
-              title: "projetos",
-              description: "",
-              section: "Desplegable",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Desplegable",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Desplegable",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-projects",
-              title: "projects",
-              description: "",
-              section: "Desplegable",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Desplegable",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-obres-publicades",
+        },{id: "dropdown-obres-publicades",
               title: "Obres publicades",
               description: "",
               section: "Desplegable",
@@ -506,6 +464,27 @@ ninja.data = [{
           window.open("https://twitter.com/gprs_translator", "_blank");
         },
       },{
+          id: 'lang-EN',
+          title: 'EN',
+          section: 'Llengües',
+          handler: () => {
+            window.location.href = "/EN" + updatedUrl;
+          },
+        },{
+          id: 'lang-pt-br',
+          title: 'pt-br',
+          section: 'Llengües',
+          handler: () => {
+            window.location.href = "/pt-br" + updatedUrl;
+          },
+        },{
+          id: 'lang-fr-ca',
+          title: 'fr-ca',
+          section: 'Llengües',
+          handler: () => {
+            window.location.href = "/fr-ca" + updatedUrl;
+          },
+        },{
       id: 'light-theme',
       title: 'Canviar a tema clar',
       description: 'Canvia a tema clar la pàgina web',
