@@ -19,12 +19,12 @@
     - title: Traductor i corrector autònom
       institution: Freelance, Barcelona
       year: 2018 - Present
-      description:
+      description: He fet traduccions, correccions, acaraments, localitzacions en el món de la literatura i dels videojocs. En l’actualitat estic més centrat en la literatura infantil i el còmic. He treballat amb llibres d’autors com Eric Carle, Francisco Ibáñez o David McKee.
 
     - title: Editor i editor tècnic
       institution: Penguin Random House Grupo Editorial, Barcelona
       year: 2021 - 2022
-      description:
+      description: Pràctiques a edició i edició tècnica del departament de literatura infantil, juvenil i còmic per diversos segells (Molino, Montena, Alfaguara, Salamandra, B de Blok, etc.). M’ha permès millorar i aprendre habilitats a més de treballar activament al procés editorial.
     
     - title:
       institution:
@@ -45,12 +45,12 @@
     - title: Màster en Estudis de Traducció
       institution: Universitat Pompeu Fabra, Barcelona
       year: 2021-2022
-      description:
+      description: Màster centrat en el món de la traducció i l’especialització en traducció literària i audiovisual, amb un tast també d’interpretació.
 
     - title: Grau en Traducció i Interpretació
       institution: <a href="https://github.com/george-gca/multi-language-al-folio">Universitat Pompeu Fabra</a>, Barcelona
       year: 2016 - 2020
-      description:
+      description: Formació en traducció i interpretació per itinerari de francès amb especialització en traducció científica i literària, i en localització de programari.
 
 
 - title: Voluntariats
@@ -82,7 +82,11 @@
       description:
 
 
-- title: Other Interests
+- title: Eines
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Eines TAO</u>: Experiència amb SDL Trados, MemoQ, Memsource, Smartcat, Xbench i Matecat; entre d’altres.
+    - <u>Paquet Office de Microsoft</u>: Domini avançat de Word, Excel i Powerpoint.
+    - <u>Eines d’edició d’imatge</u>: Domini de Photoshop i Gimp, i editors de vectors com Inkscape o Illustrator.
+    - <u>Eines de maquetació</u>: Indesign.
+    - 
